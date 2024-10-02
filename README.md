@@ -1,3 +1,0 @@
-Esse assistente de predição foi desenvolvido com foco em transcrições de call center para validar informações dos clientes e retirar o trabalho manual da curadoria da empresa em ouvir as ligações e verificar se o processo de atendimento foi atendido conforme o padrão estabelecido. 
-
-Ele tem a validação do código e também do arquivo JSON que precisa ser desenvolvido conforme a necessidade do mesmo que está lendo essa DOC.
