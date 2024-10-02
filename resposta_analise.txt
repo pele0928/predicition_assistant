@@ -1,0 +1,43 @@
+{
+    "saudacao": {
+        "hvoiceKey": "01 - Abertura | 01 - Recepcionou O Cliente | 03 - Saudação",
+        "prediction": 1,
+        "excerpt": "boa tarde boa tarde é da segundo da casa vivo é"
+    },
+    "identificacao_operador": {
+        "hvoiceKey": "01 - Abertura | 01 - Recepcionou O Cliente | 02 - Apresentação Do Operador",
+        "prediction": 1,
+        "excerpt": "é vivo casa como eu posso te ajuda"
+    },
+    "solicita_cpf_cpnj": {
+        "hvoiceKey": "01 - Abertura | 02 - Dados Cadastrais | 04 - Confirmação Cpf",
+        "prediction": 1,
+        "excerpt": "qual que é o número do seu cpf é 323545 meia 5 8 00"
+    },
+    "solicita_tipo_servico": {
+        "hvoiceKey": "01 - Abertura | 02 - Dados Cadastrais | 08 - Tipo De Serviço",
+        "prediction": 1,
+        "excerpt": "e você precisa pra qual tipo de serviço é desobstrução de um vaso sanitário tá"
+    },
+    "solicita_agendamento": {
+        "hvoiceKey": "03 - Oferecimento Atendimento | 02 - Agendamento",
+        "prediction": 1,
+        "excerpt": "você pode agenda esse atendimento pra amanhã pra amanhã é que horas seria aí você pode defini período manhã entre 8 e meio dia ou a tarde de 13 ás 18 qual você prefere é eu vô dá eu tô na 4ª da tarde é das 13 ás 18 né isso"
+    },
+    "confirma_protocolo_atendimento": {
+        "hvoiceKey": "03 - Oferecimento Atendimento | 03 - Confirmação Protocolo Atendimento",
+        "prediction": 1,
+        "excerpt": "um 5 3 1 final 12"
+    },
+    "oferece_contato_whatsapp": {
+        "hvoiceKey": "03 - Oferecimento Atendimento | 09 - Contato Pelo Whatsapp",
+        "prediction": 1,
+        "excerpt": "você pode agenda o atendimento pelo whatsapp"
+    },
+    "encerramento_padrao": {
+        "hvoiceKey": "04 - Finalizações | 08 - Encerramento Adequado",
+        "prediction": 1,
+        "excerpt": "muito obrigado tchau tchau"
+    },
+    "attendance_type": "atendimento_vivo_casa_desobstrucao_vaso"
+}
